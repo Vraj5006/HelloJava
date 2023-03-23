@@ -1,2 +1,2 @@
 noob 
-here i am editing this file from github directly so you need o fetch this on oyuyr local server
+here i am editing this file from github directly so you need to fetch this on our local server
